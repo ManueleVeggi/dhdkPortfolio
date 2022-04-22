@@ -1,6 +1,6 @@
 # Personal Portfolio - MA "DHDK"
 
-This repository consists of a portfolio mentioning all the projects developed in the framework of the two-years master degree in "Digital Humanities and Digital Knowledge" (DHDK) at the University of Bologna.
+This repository consists of a portfolio mentioning all the projects developed in the framework of the two-years master degree in "[Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge)" (DHDK) at the University of Bologna.
 
 The institutional portfolio will soon be hosted on the DHDK yearbook website, [DHDKey!](https://projects.dharc.unibo.it/dhdkey/index)
 
