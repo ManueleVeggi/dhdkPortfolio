@@ -9,4 +9,4 @@ The institutional portfolio will soon be hosted on the DHDK yearbook website, [D
 ## Academic year 2021/2022 
 
 - **[OFfLOD. _Orlando Furioso_ for Linked Open Data](https://off-lod.github.io/orlando-furioso/)**: course "Knowledge Management - Knowledge Organization and Cultural Heritage", Prof. Tomasi. [View repository](https://github.com/off-lod/orlando-furioso.git) (submitted: 6<sup>th</sup> Apr. 2022)
-- **Python query processor for relational and graph databases of academic publications**: course "Computational Management of Data - Data Science", Prof. Peroni. [View repository](https://github.com/olgagolgan/v-AMOS.git) (_ongoing_)
+- **[Python query processor for relational and graph databases of academic publications](https://github.com/olgagolgan/v-AMOS/blob/16ff797ed973c3b1abb476f0d470bb70914606e5/vAMOS_notebook.ipynb)**: course "Computational Management of Data - Data Science", Prof. Peroni. [View repository](https://github.com/olgagolgan/v-AMOS.git) (_ongoing_)
