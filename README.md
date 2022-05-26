@@ -8,6 +8,7 @@ The institutional portfolio is also hosted on the DHDK yearbook website, [DHDKey
 
 ## Academic year 2021/2022 
 
+- **<i>NoStos</i> nella pelle: gamification project for children at Palazzo Fava (Bologna)**: course "Digital Heritage and Multimedia", Proff. Caraceni and Pescarin. [View repository](https://github.com/semafe/FAVoloso.git) (<i>ongoing</i>)
 - **Distant reading of Bassani, <i>Gli occhiali d'oro</i>**: course "Digital Text in the Humanities: Theories, Methodologies, Applications", Prof. Mancinelli. [View repository](https://github.com/digiMof/gbggold.git) (<i>ongoing</i>)
 - **[Dead Lover Society: A metadata-enriched and stylistically customizable magazine on tragic love stories](https://deadloversociety.github.io/imwt22/)**: course "Information Modelling and Web Technologies", Prof. Vitali. [View repository](https://github.com/deadloversociety/imwt22.git) (<i>ongoing</i>)
 - **Knowledge extraction of Gropius, <i>The Theory and Organization of Bauhaus</i>**: course "Knowledge Management - Knowledge Representation and Extraction", Proff. Gangemi and Nuzzolese. [View repository](https://github.com/digiMof/gbggold.git) (<i>ongoing</i>)
