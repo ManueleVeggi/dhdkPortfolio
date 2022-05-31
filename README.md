@@ -4,7 +4,7 @@ This repository consists of a portfolio mentioning all the projects developed in
 
 <!--![1-scaled](https://user-images.githubusercontent.com/48963689/164887621-563fc655-9955-4e47-9f57-f6bfb47e0c24.jpeg)-->
 
-The institutional portfolio is also hosted on the DHDK yearbook website, [DHDKey!](https://projects.dharc.unibo.it/dhdkey/index)
+The institutional portfolio is also hosted on the DHDK yearbook website, [DHDKey!](https://projects.dharc.unibo.it/dhdkey/projects?id=manuele_veggi)
 
 ## Academic year 2021/2022 
 
