@@ -7,7 +7,7 @@ This repository consists of a portfolio mentioning all the projects developed in
 ## Academic year 2021/2022 
 
 **Digital technologies applied to textual scholarship and cultural heritage**
-- **[<i>NoStos</i> nella pelle: gamification project for children at Palazzo Fava (Bologna)](https://semafe.github.io/FAVoloso/)**: course "Digital Heritage and Multimedia", Proff. Caraceni and Pescarin. [View repository](https://github.com/semafe/FAVoloso.git) (<i>ongoing</i>) <!-- -->
+- **[<i>NoStos</i> nella pelle: gamification project for children at Palazzo Fava (Bologna)](https://semafe.github.io/FAVoloso/)**: course "Digital Heritage and Multimedia", Proff. Caraceni and Pescarin. [View repository](https://github.com/semafe/FAVoloso.git) (submitted: 14<sup>th</sup> Jul. 2022) 
 - **[Changing lenses. Visualising marginalisation strategies through a multilevel text analysis of "Gli occhiali d'oro" by Giorgio Bassani](https://digimof.github.io/gbggold/)**: course "Digital Text in the Humanities: Theories, Methodologies, Applications", Prof. Mancinelli. [View repository](https://github.com/digiMof/gbggold.git) (<i>ongoing</i>)
 
 **Knowledge management in the Semantic Web**
