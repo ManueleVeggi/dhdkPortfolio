@@ -8,10 +8,10 @@ This repository consists of a portfolio mentioning all the projects developed in
 
 **Digital technologies applied to textual scholarship and cultural heritage**
 - **[<i>NoStos</i> nella pelle: gamification project for children at Palazzo Fava (Bologna)](https://semafe.github.io/FAVoloso/)**: course "Digital Heritage and Multimedia", Proff. Caraceni and Pescarin. [View repository](https://github.com/semafe/FAVoloso.git) (submitted: 14<sup>th</sup> Jul. 2022) 
-- **[Changing lenses. Visualising marginalisation strategies through a multilevel text analysis of "Gli occhiali d'oro" by Giorgio Bassani](https://digimof.github.io/gbggold/)**: course "Digital Text in the Humanities: Theories, Methodologies, Applications", Prof. Mancinelli. [View repository](https://github.com/digiMof/gbggold.git) (<i>ongoing</i>)
+- **[Changing lenses. Visualising marginalisation strategies through a multilevel text analysis of "Gli occhiali d'oro" by Giorgio Bassani](https://digimof.github.io/gbggold/)**: course "Digital Text in the Humanities: Theories, Methodologies, Applications", Prof. Mancinelli. [View repository](https://github.com/digiMof/gbggold.git) (submitted: 18<sup>th</sup> Jul. 2022)
 
 **Knowledge management in the Semantic Web**
-- **[KRœPiUS. Knowledge representation and extraction of Gropius, <i>The Theory and Organization of Bauhaus</i>](https://digimof.github.io/keGropius/)**: course "Knowledge Management - Knowledge Representation and Extraction", Proff. Gangemi and Nuzzolese. [View repository](https://github.com/digiMof/keGropius.git) (<i>just started</i>)
+- **[KRœPiUS. Knowledge representation and extraction of Gropius, <i>The Theory and Organization of Bauhaus</i>](https://digimof.github.io/keGropius/)**: course "Knowledge Management - Knowledge Representation and Extraction", Proff. Gangemi and Nuzzolese. [View repository](https://github.com/digiMof/keGropius.git) (<i>ongoing</i>)
 - **[OFfLOD. _Orlando Furioso_ for Linked Open Data](https://off-lod.github.io/orlando-furioso/)**: course "Knowledge Management - Knowledge Organization and Cultural Heritage", Prof. Tomasi. [View repository](https://github.com/off-lod/orlando-furioso.git) (submitted: 6<sup>th</sup> Apr. 2022)
 
 **Programming (Python) and Web Technologies (HTML, CSS, JS)**
