@@ -4,6 +4,10 @@
 
 This repository consists of a portfolio mentioning all the projects developed in the framework of the two-years master degree in "[Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge)" (DHDK) at the University of Bologna. The institutional portfolio is also hosted on the DHDK yearbook website, [DHDKey!](https://projects.dharc.unibo.it/dhdkey/projects?id=manuele_veggi)
 
+## Academic year 2022/2023 
+
+<i>Coming soon...</i>
+
 ## Academic year 2021/2022 
 
 **Digital technologies applied to textual scholarship and cultural heritage**
