@@ -8,12 +8,21 @@ This repository consists of a portfolio mentioning all the projects developed in
 
 <i>Coming soon...</i>
 
+<!--
+- Information Visualization
+- Laboratory of VR and AR
+- Open Access and Digital Ethics
+- Business Strategy and Innovation in Cultural Industries
+-->
+
 ## Academic year 2021/2022 
 
 **Digital technologies applied to textual scholarship and cultural heritage**
 - **[<i>NoStos</i> nella pelle: gamification project for children at Palazzo Fava (Bologna)](https://semafe.github.io/FAVoloso/)**: course "Digital Heritage and Multimedia", Proff. Caraceni and Pescarin. [View repository](https://github.com/semafe/FAVoloso.git) (submitted: 14<sup>th</sup> Jul. 2022) 
 - **[Changing lenses. Visualising marginalisation strategies through a multilevel text analysis of "Gli occhiali d'oro" by Giorgio Bassani](https://digimof.github.io/gbggold/)**: course "Digital Text in the Humanities: Theories, Methodologies, Applications", Prof. Mancinelli. [View repository](https://github.com/digiMof/gbggold.git) (submitted: 18<sup>th</sup> Jul. 2022)
-
+<!--
+- **Sewing text and images together in the digital environment.  A review of "Bayeux Tapestry Digital Edition"**: course "Scholarly Editing and Digital Approaches", Prof. Italia. [View reference edition](http://www.sd-editions.com/bayeux/online/) (revision submitted: 7<sup>th</sup> Sep. 2022)
+-->
 **Knowledge management in the Semantic Web**
 - **[KRœPiUS. Knowledge representation and extraction of Gropius, <i>The Theory and Organization of Bauhaus</i>](https://digimof.github.io/keGropius/)**: course "Knowledge Management - Knowledge Representation and Extraction", Proff. Gangemi and Nuzzolese. [View repository](https://github.com/digiMof/keGropius.git) (<i>ongoing</i>)
 - **[OFfLOD. _Orlando Furioso_ for Linked Open Data](https://off-lod.github.io/orlando-furioso/)**: course "Knowledge Management - Knowledge Organization and Cultural Heritage", Prof. Tomasi. [View repository](https://github.com/off-lod/orlando-furioso.git) (submitted: 6<sup>th</sup> Apr. 2022)
