@@ -9,14 +9,14 @@ This repository consists of a portfolio mentioning all the projects developed in
 
 |**Project**|**Course**|**Professor(s)**|**Notes**|**Submitted**
 |---|---|---|---|---|
+|**In Itinere: an open data project on students enrolment in Italian Univerisity**|Open Access and Digital Ethics|Palmirani|[View repository](https://github.com/ManueleVeggi/initinere.git)|<i>just started</i>|
 |**StrAIke a pose: planning a coreography for a NAO Robot**|Fundamentals of Artifical Intelligence (MSc Artificial Intelligence)|Milano|[View repository](https://github.com/ManueleVeggi/strAIkePose.git)|<i>just started</i>|
-|**In Itinere: an open data project on students enrolment in Italian Univerisity**|Open Access and Digital Ethics|Palmirani|[View repository](https://github.com/ManueleVeggi/initinere.git)|<i>just started</i>
 
+ 	
 <!--
-- Information Visualization
-- Laboratory of VR and AR
-- Open Access and Digital Ethics
-- Business Strategy and Innovation in Cultural Industries
+|**Lorem Ipsum Dolor 2**|Information Visualization|Daquino|View Repository|<i>just started</i>|
+|**Lorem Ipsum Dolor 2**|Business Strategy and Innovation in Cultural Industries|Lo Verso|View Repository|<i>just started</i>|
+|**Lorem Ipsum Dolor 1**|Laboratory of VR & AR (MSc Computer Science)|Marfia|View Repository|<i>just started</i>|
 -->
 
 ## Academic year 2021/2022 
