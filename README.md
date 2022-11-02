@@ -9,7 +9,7 @@ This repository consists of a portfolio mentioning all the projects developed in
 
 |**Project**|**Course**|**Professor(s)**|**Notes**|**Submitted**
 |---|---|---|---|---|
-|**In Itinere: an open data project on offsite students enrolment in Italian Univerisity**|Open Access and Digital Ethics|Palmirani|[View repository](https://github.com/ManueleVeggi/initinere.git)|<i>just started</i>|
+|**[<i>In Itinere</i>: an open data project on offsite students enrolment in Italian Univerisity](https://manueleveggi.github.io/initinere/)**|Open Access and Digital Ethics|Palmirani|[View repository](https://github.com/ManueleVeggi/initinere.git)|<i>just started</i>|
 |**StrAIke a pose: planning a coreography for a NAO Robot**|Fundamentals of Artifical Intelligence (MSc Artificial Intelligence)|Milano|[View repository](https://github.com/ManueleVeggi/strAIkePose.git)|<i>just started</i>|
 
  	
