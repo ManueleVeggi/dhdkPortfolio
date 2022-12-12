@@ -9,7 +9,7 @@ This repository consists of a portfolio mentioning all the projects developed in
 
 |**Project**|**Course**|**Professor(s)**|**Notes**|**Submitted**
 |---|---|---|---|---|
-|**[<i>In Itinere</i>: an open data project on international students in Italian university](https://manueleveggi.github.io/initinere/)**|Open Access and Digital Ethics|Palmirani|[View repository](https://github.com/ManueleVeggi/initinere.git)|<i>just started</i>|
+|**[<i>In Itinere</i>: an open data project on international students in Italian university](https://manueleveggi.github.io/initinere/)**|Open Access and Digital Ethics|Palmirani|[View repository](https://github.com/ManueleVeggi/initinere.git)|Dec. 2022|
  	
 <!--
 |**Lorem Ipsum Dolor 2**|Information Visualization|Daquino|View Repository|<i>just started</i>|
