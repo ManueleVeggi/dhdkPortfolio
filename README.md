@@ -6,14 +6,14 @@ This repository consists of a portfolio mentioning all the projects developed in
 
 ## Academic year 2022/2023 
 
-
 |**Project**|**Course**|**Professor(s)**|**Notes**|**Submitted**
 |---|---|---|---|---|
+|**[Nice to MET you: art routes from Italy to New York](https://manueleveggi.github.io/infoviz/)**|Information Visualization|Daquino|[View Repository](https://github.com/ManueleVeggi/infoviz)|<i>just started</i>|
 |**[<i>In Itinere</i>: an open data project on international students in Italian university](https://manueleveggi.github.io/initinere/)**|Open Access and Digital Ethics|Palmirani|[View repository](https://github.com/ManueleVeggi/initinere.git)|Dec. 2022|
+|**[Damien Hirst and the Contemporary Art Market. Final Course Report]()**|Business Strategy and Innovation in Cultural Industries|Lo Verso|[View reference case study](https://faculty-research.esmt.berlin/publication/damien-hirst-and-contemporary-art-market)|Dec. 2022|
  	
 <!--
-|**Lorem Ipsum Dolor 2**|Information Visualization|Daquino|View Repository|<i>just started</i>|
-|**Lorem Ipsum Dolor 2**|Business Strategy and Innovation in Cultural Industries|Lo Verso|View Repository|<i>just started</i>|
+
 |**Lorem Ipsum Dolor 1**|Laboratory of VR & AR (MSc Computer Science)|Marfia|View Repository|<i>just started</i>|
 -->
 
