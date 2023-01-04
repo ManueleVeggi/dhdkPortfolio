@@ -10,7 +10,7 @@ This repository consists of a portfolio mentioning all the projects developed in
 |---|---|---|---|---|
 |**[Nice to MET you: art routes from Italy to New York](https://manueleveggi.github.io/infoviz/)**|Information Visualization|Daquino|[View Repository](https://github.com/ManueleVeggi/infoviz)|<i>just started</i>|
 |**[<i>In Itinere</i>: an open data project on international students in Italian university](https://manueleveggi.github.io/initinere/)**|Open Access and Digital Ethics|Palmirani|[View repository](https://github.com/ManueleVeggi/initinere.git)|Dec. 2022|
-|**[Damien Hirst and the Contemporary Art Market. Final Course Report]()**|Business Strategy and Innovation in Cultural Industries|Lo Verso|[View reference case study](https://faculty-research.esmt.berlin/publication/damien-hirst-and-contemporary-art-market)|Dec. 2022|
+|**[Damien Hirst and the Contemporary Art Market. Final Course Report](https://github.com/ManueleVeggi/dhdkPortfolio/blob/7edff85599d1c20d5f443e7151581d192ca4d9de/essay/Veggi&alBusinessReport.pdf)**|Business Strategy and Innovation in Cultural Industries|Lo Verso|[View reference case study](https://faculty-research.esmt.berlin/publication/damien-hirst-and-contemporary-art-market)|Dec. 2022|
  	
 <!--
 
