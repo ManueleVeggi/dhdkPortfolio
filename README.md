@@ -12,11 +12,6 @@ This repository consists of a portfolio mentioning all the projects developed in
 |**[Nice to MET you: art routes from Italy to New York](https://manueleveggi.github.io/infoviz/)**|Information Visualization|Daquino|[View Repository](https://github.com/ManueleVeggi/infoviz)|<i>just started</i>|
 |**[<i>In Itinere</i>: an open data project on international students in Italian university](https://manueleveggi.github.io/initinere/)**|Open Access and Digital Ethics|Palmirani|[View repository](https://github.com/ManueleVeggi/initinere.git)|Dec. 2022|
 |**[Damien Hirst and the Contemporary Art Market. Final Course Report](https://github.com/ManueleVeggi/dhdkPortfolio/blob/7edff85599d1c20d5f443e7151581d192ca4d9de/essay/Veggi&alBusinessReport.pdf)**|Business Strategy and Innovation in Cultural Industries|Lo Verso|[View reference case study](https://faculty-research.esmt.berlin/publication/damien-hirst-and-contemporary-art-market)|Dec. 2022|
- 	
-<!--
-
-|**Lorem Ipsum Dolor 1**|Laboratory of VR & AR (MSc Computer Science)|Marfia|View Repository|<i>just started</i>|
--->
 
 ## Academic year 2021/2022 
 
@@ -29,18 +24,3 @@ This repository consists of a portfolio mentioning all the projects developed in
 |**[KRœPiUS. Knowledge representation and extraction of Gropius, <i>The Theory and Organization of Bauhaus</i>](https://digimof.github.io/keGropius/)**|   Knowledge Management - Knowledge Representation and Extraction|Gangemi - Nuzzolese|[View repository](https://github.com/digiMof/keGropius.git)|Aug. 2022|
 |**[Dead Lover Society: A metadata-enriched and stylistically customizable magazine on tragic love stories](https://deadloversociety.github.io/imwt22/)** |Information Modelling and Web Technologies|Vitali|[View repository](https://github.com/deadloversociety/imwt22.git)|Jul. 2022|
 |**[Python query processor for relational and graph databases of academic publications](https://github.com/olgagolgan/v-AMOS/blob/05bfb14c8781ec90fc356ff64c31895dfc076dd8/vAMOS_notebook.ipynb)**|Computational Management of Data - Data Science|Peroni|[View repository](https://github.com/olgagolgan/v-AMOS.git) (private)|Aug. 2022|
-
-<!--
-**Digital technologies applied to textual scholarship and cultural heritage**
-- **[<i>NoStos</i> nella pelle: gamification project for children at Palazzo Fava (Bologna)](https://semafe.github.io/FAVoloso/)**: course "Digital Heritage and Multimedia", Proff. Caraceni and Pescarin. [View repository](https://github.com/semafe/FAVoloso.git) (submitted: 14<sup>th</sup> Jul. 2022) 
-- **[Changing lenses. Visualising marginalisation strategies through a multilevel text analysis of "Gli occhiali d'oro" by Giorgio Bassani](https://digimof.github.io/gbggold/)**: course "Digital Text in the Humanities: Theories, Methodologies, Applications", Prof. Mancinelli. [View repository](https://github.com/digiMof/gbggold.git) (submitted: 18<sup>th</sup> Jul. 2022)
-- **Sewing text and images together in the digital environment.  A review of "Bayeux Tapestry Digital Edition"**: course "Scholarly Editing and Digital Approaches", Prof. Italia. [View reference edition](http://www.sd-editions.com/bayeux/online/) (revision submitted: 7<sup>th</sup> Sep. 2022)
-
-**Knowledge management in the Semantic Web**
-- **[KRœPiUS. Knowledge representation and extraction of Gropius, <i>The Theory and Organization of Bauhaus</i>](https://digimof.github.io/keGropius/)**: course "Knowledge Management - Knowledge Representation and Extraction", Proff. Gangemi and Nuzzolese. [View repository](https://github.com/digiMof/keGropius.git) (submitted: 9<sup>th</sup> Aug. 2022)
-- **[OFfLOD. _Orlando Furioso_ for Linked Open Data](https://off-lod.github.io/orlando-furioso/)**: course "Knowledge Management - Knowledge Organization and Cultural Heritage", Prof. Tomasi. [View repository](https://github.com/off-lod/orlando-furioso.git) (submitted: 6<sup>th</sup> Apr. 2022)
-
-**Programming (Python) and Web Technologies (HTML, CSS, JS)**
-- **[Dead Lover Society: A metadata-enriched and stylistically customizable magazine on tragic love stories](https://deadloversociety.github.io/imwt22/)**: course "Information Modelling and Web Technologies", Prof. Vitali. [View repository](https://github.com/deadloversociety/imwt22.git) (submitted: 11<sup>th</sup> Jul. 2022)
-- **[Python query processor for relational and graph databases of academic publications](https://github.com/olgagolgan/v-AMOS/blob/05bfb14c8781ec90fc356ff64c31895dfc076dd8/vAMOS_notebook.ipynb)**: course "Computational Management of Data - Data Science", Prof. Peroni. [View repository](https://github.com/olgagolgan/v-AMOS.git) (submitted: 31<sup>st</sup> Aug. 2022)
--->
