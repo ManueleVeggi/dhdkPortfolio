@@ -6,6 +6,10 @@ This repository consists of a portfolio mentioning all the projects developed in
 
 ## Academic year 2022/2023 
 
+- Final thesis in **[Interaction Media Design](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/454470)**, Prof. Pescarin (supervisor). [View repository](https://github.com/ManueleVeggi/dhdkThesis)
+- Curricular internship at **[Fondazione Zeri](https://fondazionezeri.unibo.it/it)**, Prof. Mambelli (tutor). [View repository](https://github.com/ManueleVeggi/internZeri.git)
+
+
 |**Project**|**Course**|**Professor(s)**|**Notes**|**Submitted**
 |---|---|---|---|---|
 |**[A virtual immersive gallery for HTC Vive](https://github.com/ManueleVeggi/labVrAr/blob/67de56822aa1894a6df4249e22870cd08b03ffd4/README.md)**|Laboratory of VR and AR|Marfia|[View Repository](https://github.com/ManueleVeggi/labVrAr.git) (private)|<i>just started</i>|
