@@ -8,7 +8,6 @@ This repository consists of a portfolio mentioning all the projects developed in
 
 - Final thesis in **[Interaction Media Design](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/454470)**, Prof. Sofia Pescarin (supervisor). [Private repository](https://github.com/ManueleVeggi/dhdkThesis)
 - Curricular internship at **[Fondazione Zeri](https://fondazionezeri.unibo.it/it)**, Prof. Francesca Mambelli (tutor). [GitHub Organization](https://github.com/orgs/fondazerimv/repositories)
-  - Old repository [Private repository](https://github.com/ManueleVeggi/internZeri.git)
 
 
 |**Project**|**Course**|**Professor(s)**|**Notes**|**Submitted**
