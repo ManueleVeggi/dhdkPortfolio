@@ -1,15 +1,6 @@
 # Personal Portfolio - MA "DHDK"
 
-This repository consists of a portfolio mentioning all the projects developed in the framework of the two-years master degree in "[Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge)" (DHDK) at the University of Bologna. The institutional portfolio is also hosted on the DHDK yearbook website, [DHDKey!](https://projects.dharc.unibo.it/dhdkey/projects?id=manuele_veggi)
-
-<!--
-<p float="left">
-  <img src="https://decision-for-liver.eu/wp-content/uploads/2020/07/UNIBO-e1595960458939.png" height="100" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe81dOgZeipgZrUl1egv12OADQaEukJQsK-pN6lV6dyn7s7m2nMcmp5SUJMNJhO1AuHOg&usqp=CAU" height="100" />
-  <img src="https://apps.uniroma3.it/ateneo/memo/files/pub_crop_thumb_Immagine_a5a84948-f1bb-4ec3-a711-3c159d79ced8.jpg" height="100" /> 
-  <img src="https://www.epfl.ch/about/overview/wp-content/uploads/2020/07/logo-epfl-1024x576.png" height="100" />
-</p>
--->
+This repository consists of a portfolio mentioning all the projects developed in the framework of the two-years master degree in "[Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge)" (DHDK) at the University of Bologna. The institutional portfolio is also hosted on the DHDK yearbook website, [DHDKey!](https://projects.dharc.unibo.it/dhdkey/projects?id=manuele_veggi).
 
 <details>
 <summary><h3>Academic year 2022/2023</h3></summary>
