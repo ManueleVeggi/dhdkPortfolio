@@ -1,13 +1,13 @@
 # Personal Portfolio - MA "DHDK"
 
-This repository consists of a portfolio mentioning all the projects developed in the framework of the two-years master degree in "[Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge)" (DHDK) at the University of Bologna. The institutional portfolio is also hosted on the DHDK yearbook website, [DHDKey!](https://projects.dharc.unibo.it/dhdkey/projects?id=manuele_veggi).
+This repository consists of a portfolio mentioning all the projects developed in the framework of the two-years master degree in "[Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge)" (DHDK) at the University of Bologna. The institutional portfolio is also hosted on the DHDK yearbook website, [DHDKey!](https://projects.dharc.unibo.it/dhdkey/projects?id=manuele_veggi)
 
 <details>
 <summary><h3>Academic year 2022/2023</h3></summary>
 
 |**Project**|**Course**|**Professor(s)**|**Notes**|**Submitted**
 |---|---|---|---|---|
-|**[Zeri Art Market Ontology](https://github.com/fondazerimv/amontolgy/blob/bc69c53639c5c1b81ee4a7a4a860e5ddcc639bd0/README.md)**|[Collegio Superiore](https://site.unibo.it/collegio-superiore/it) Thesis & Internship at [Fondazione Zeri](https://fondazionezeri.unibo.it/it)|Iannucci, Peroni; Mambelli (Tutor)|[View Repository](https://github.com/fondazerimv/amontolgy.git)|Mar. 2024|
+|**[Zeri Art Market Ontology](https://github.com/fondazerimv/amontolgy/blob/bc69c53639c5c1b81ee4a7a4a860e5ddcc639bd0/README.md)**|[Collegio Superiore](https://site.unibo.it/collegio-superiore/it) Thesis & Internship at [Fondazione Zeri](https://fondazionezeri.unibo.it/it)|Iannucci, Peroni; Mambelli (Tutor)|[View Repository](https://github.com/fondazerimv/zamo)|Mar. 2024|
 |**[MyTISSE. Interactive systems as enhancement tools for the sense of care in color perception](https://github.com/ManueleVeggi/mytisse/blob/caf01686dbbf484901b3be3992e4f48dc5aa1056/README.md)**|Master Degree Thesis in Interaction Media Design|Pescarin|[View Repository](https://github.com/ManueleVeggi/mytisse.git)|Sep. 2023|
 |**[ProvokArt. Automatic Speech Recognition in A VR Art Gallery](https://github.com/ManueleVeggi/provokart_vr/releases/tag/v1.0.0)**|Laboratory of VR and AR|Marfia|[View Repository](https://github.com/ManueleVeggi/provokart_vr)|Jul. 2023|
 |**[<i>Rudimentum Novitorum</i>. Immersive Medieval World Map](https://github.com/ManueleVeggi/rudimentumNovitorumMap/blob/main/RudNovMap/RudNovMap.uproject)**|Visiting student at [EPFL - eM+](https://www.epfl.ch/labs/emplus/)|Kenderdine (Referent Professor)|[View Repository](https://github.com/ManueleVeggi/rudimentumNovitorumMap.git)|Jun. 2023|
